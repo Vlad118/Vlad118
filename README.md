@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello, I am Vlad!
+
+- Third year student of **Electronics and Computer Science** at the University of Edinburgh
+- Most experience with **Python, Java, C, Windows and Linux**
+- Part-time role in research and development consisting of programming and hardware interfacing
+- Interested in internship opportunities
 
 <!--
 **Vlad118/Vlad118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
